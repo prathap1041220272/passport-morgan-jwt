@@ -1,0 +1,26 @@
+{
+  "name": "auth-with-jwt",
+  "version": "1.0.0",
+  "description": "sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prathap1041220272/passport-morgan.git"
+  },
+  "author": "siva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/prathap1041220272/passport-morgan/issues"
+  },
+  "homepage": "https://github.com/prathap1041220272/passport-morgan#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "mongoose": "^5.0.14",
+    "morgan": "^1.9.0"
+  }
+}
