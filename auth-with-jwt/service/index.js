@@ -1,5 +1,5 @@
-const token =require('./token');
-const bcrypt =require('./bcrypt');
+const tokenServ =require('./token');
+const bcryptServ =require('./bcrypt');
 
 module.exports = {
 	tokenServ,
